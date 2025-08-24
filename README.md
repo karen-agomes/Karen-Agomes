@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Karen Gomes
+# Olá! Eu sou a Karen Gomes
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul Virtual  
 🎓 **Estudante de Enfermagem** na Universidade de Brasília  
