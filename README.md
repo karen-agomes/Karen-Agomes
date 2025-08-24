@@ -3,7 +3,7 @@
 💻 **Estudante de Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul Virtual  
 🎓 **Estudante de Enfermagem** na Universidade de Brasília  
 
-Meu foco é **integrar tecnologia e saúde**, consolidando meus conhecimentos em tecnologia para aplicá-los na área da saúde e criar soluções que aprimorem o cuidado ao paciente e modernizem os serviços de saúde.
+Meu foco é **integrar tecnologia e saúde**, consolidando meus conhecimentos em tecnologia para aplicá-los na área da saúde e criar soluções que aprimorem o cuidado ao paciente.
 
 ---
 
@@ -24,7 +24,7 @@ Meu foco é **integrar tecnologia e saúde**, consolidando meus conhecimentos em
 
 ## 🚀 Projetos em Destaque
 
-### 🧾 Calculadora de Orçamento Pessoal
+### 🧮 Calculadora de Orçamento Pessoal
 - **Descrição**: aplicação simples em Python para organizar renda e despesas mensais.  
 - **Objetivo**: praticar lógica de programação, entrada e saída de dados, operadores e estruturas condicionais (`if/elif/else`).  
 - **Aprendizado**: manipulação de variáveis, soma de valores, cálculo de saldo, mensagens condicionais e formatação de saída.  
