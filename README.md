@@ -29,7 +29,7 @@ Meu foco é **integrar tecnologia e saúde**, consolidando meus conhecimentos em
 - **Objetivo**: praticar lógica de programação, entrada e saída de dados, operadores e estruturas condicionais (`if/elif/else`).  
 - **Aprendizado**: manipulação de variáveis, soma de valores, cálculo de saldo, mensagens condicionais e formatação de saída.  
 
-*(Mais projetos serão adicionados à medida que eu evoluo no aprendizado em programação)*
+*(Mais projetos serão incluídos à medida que eu evoluo no aprendizado em programação.)*
 
 ---
 
